@@ -12,6 +12,7 @@ inflection = "^0.5.1"
 seaborn = "^0.13.2"
 statsmodels = "^0.14.2"
 lxml = "^5.2.2"
+streamlit = "^1.36.0"
 
 
 [tool.poetry.group.dev.dependencies]
