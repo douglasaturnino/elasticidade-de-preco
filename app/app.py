@@ -10,7 +10,7 @@ df_c_path = os.path.join(home_path, "data", "crossprice.csv")
 df_e_path = os.path.join(home_path, "data", "df_elasticity.csv")
 
 
-# Carregar os dadaframes
+# Carregar os dataframes
 df_bp = pd.read_csv(df_bp_path)
 df_c = pd.read_csv(df_c_path)
 df_e = pd.read_csv(df_e_path)

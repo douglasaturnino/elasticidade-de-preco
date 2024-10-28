@@ -22,7 +22,7 @@ Todos os produtos de dados entregues devem ser acessíveis via internet.
 
 O planejamento da solução será validado com os times de negócio, visando garantir que as soluções desenvolvidas sejam úteis na sua tomada de decisão.
 
-Só serão feta a elasticidade de preço nos produtos com uma significancia estatistica maior que 5%. 
+Só serão feita a elasticidade de preço nos produtos com uma significancia estatistica maior que 5%. 
 
 # Planejamento da solução
 
